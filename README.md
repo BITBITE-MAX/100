@@ -3,3 +3,5 @@
 **ON DAY 2**| I solved few questions of if statement, for loop and arrays.
 
 **ON DAY 3**| I solved few questions of Arrays and Objects.
+
+**ON DAY 4**| I solved few questions of functions.
