@@ -5,3 +5,5 @@
 **ON DAY 3**| I solved few questions of Arrays and Objects.
 
 **ON DAY 4**| I solved few questions of functions.
+
+**ON DAY 5**| I made a tic tac toe game.
